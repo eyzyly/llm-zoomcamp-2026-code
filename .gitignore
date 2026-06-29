@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 .env
+llm-zoomcamp-hw2/models/Xenova/all-MiniLM-L6-v2/model.onnx
+llm-zoomcamp-hw2/models/Xenova/all-MiniLM-L6-v2/tokenizer.json
